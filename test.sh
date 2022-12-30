@@ -1,2 +1,5 @@
 Произвольное содержимое скрипта test.sh
-#dev commit 1
+#dev comment 1
+#dev comment 2
+and
+#dev comment 3
